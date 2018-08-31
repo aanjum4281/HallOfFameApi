@@ -1,0 +1,15 @@
+/*  this is a static folder */
+h1{
+	color: red;
+	
+}
+
+div {
+	text-align: center;
+	background-color: salmon;
+	
+}
+
+body {
+    background-color: lightblue;
+}
